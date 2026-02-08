@@ -2,4 +2,128 @@
 
 .page {
   /* сохраните в разметке и стилях класс page у тега body. Он удобен, чтобы составлять селекторы для разных цветовых тем. */
+  font-family: 'IBM Plex Mono', sans-serif;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 18px;
+  line-height: 23.4px;
+  letter-spacing: 0%;
+}
+
+.main-title {
+  color: red;
+}
+
+.topic-title {
+}
+
+.title_type_bold {
+}
+
+.title_type_regular {
+}
+
+.description {
+}
+
+.header {
+}
+
+.decorated-zone {
+}
+
+.header__theme-menu {
+}
+
+.header__theme-menu-list {
+}
+
+.header__theme-menu-item {
+}
+
+.header__theme-menu-button {
+}
+
+.header__theme-menu-button_type_light {
+}
+
+.header__theme-menu-button_active {
+}
+
+.header__theme-menu-button_type_auto {
+}
+
+.header__theme-menu-button_type_dark {
+}
+
+.header__main-title {
+}
+
+.header__title {
+}
+
+.main {
+}
+
+.why {
+}
+
+.why__topic-title {
+}
+
+.why__text-block {
+}
+
+.why__title {
+}
+
+.why__description {
+}
+
+.what {
+}
+
+.what__topic-title {
+}
+
+.what__text-block {
+}
+
+.what__title {
+}
+
+.what__description {
+}
+
+.how {
+}
+
+.how__topic-title {
+}
+
+.how__title {
+}
+
+.how__text-block {
+}
+
+.how__description {
+}
+
+.gallery {
+}
+
+.gallery__title {
+}
+
+.gallery__images-block {
+}
+
+.gallery__image {
+}
+
+.footer {
+}
+
+.footer__main-title {
 }
