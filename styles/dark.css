@@ -11,6 +11,7 @@
   */
     --bg-color: #000028;
     --btn-color: #ff0070;
+    --btn-hover-border-color: #660045;
     --rec-color: #ff0070;
     --main-title-color: #db00ff;
     --main-title-color-shadow: #ff0070;
@@ -21,4 +22,28 @@
     --link-color-shadow: #ff0070;
     --rec-line-color: #ff0070;
     --header-image: url(../images/cover-image-dark.png);
+    --rec-display: inline;
+    --rec-circle-display: block;
+    --link-border: #f1b2ce;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #000028;
+    --btn-color: #ff0070;
+    --btn-hover-border-color: #660045;
+    --rec-color: #ff0070;
+    --main-title-color: #db00ff;
+    --main-title-color-shadow: #ff0070;
+    --title-color: #000028;
+    --bg-title-color: #ff0070;
+    --topic-title-color: #ff0070;
+    --description-color: #f1b2ce;
+    --link-color-shadow: #ff0070;
+    --rec-line-color: #ff0070;
+    --header-image: url(../images/cover-image-dark.png);
+    --rec-display: inline;
+    --rec-circle-display: block;
+    --link-border: #f1b2ce;
+  }
 }
