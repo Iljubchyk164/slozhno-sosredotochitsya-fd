@@ -9,21 +9,21 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
-    --bg-color: #fff1f7;
-    --btn-color: #353430;
-    --btn-hover-border-color: #ada5a6;
-    --main-title-color: #ffc2e6;
-    --main-title-color-shadow: #ff8dcb;
-    --title-color: #353430;
-    --bg-title-color: #ff8dcb;
-    --topic-title-color: #353430;
-    --description-color: #353430;
-    --link-color-shadow: #ff8dc3;
-    --rec-line-color: #353430;
-    --header-image: url(../images/cover-image-light.png);
-    --rec-display: none;
-    --rec-circle-display: none;
-    --link-border: #353430;
+  --bg-color: #fff1f7;
+  --btn-color: #353430;
+  --btn-hover-border-color: #ada5a6;
+  --main-title-color: #ffc2e6;
+  --main-title-color-shadow: #ff8dcb;
+  --title-color: #353430;
+  --bg-title-color: #ff8dcb;
+  --topic-title-color: #353430;
+  --description-color: #353430;
+  --link-color-shadow: #ff8dc3;
+  --rec-line-color: #353430;
+  --header-image: url(../images/cover-image-light.png);
+  --rec-display: none;
+  --rec-circle-display: none;
+  --link-border: #353430;
 }
 
 @media (prefers-color-scheme: light) {
