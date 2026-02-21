@@ -132,7 +132,7 @@
   );
   padding: clamp(10px, 2.66vw, 20px);
   padding-left: 0;
-  inline-size: clamp(375px, 100vw, 1440px);
+  inline-size: clamp(375px, 100%, 1440px);
   block-size: 100vh;
 }
 
@@ -275,7 +275,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  inline-size: clamp(375px, 100vw, 1440px);
+  inline-size: clamp(375px, 100%, 1440px);
   block-size: 100vh;
 }
 
